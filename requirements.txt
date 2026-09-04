@@ -1,0 +1,6 @@
+# Tool thu thập & tổng hợp báo cáo tài chính HOSE + HNX
+# Cài đặt: python -m pip install -r requirements.txt
+vnstock==4.0.4
+pandas>=2.0,<3.0
+openpyxl>=3.1
+tqdm>=4.66
